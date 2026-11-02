@@ -1,0 +1,6 @@
+{
+  "name": "ระบบคุมรถยนต์ เทศบาลตำบลพระซอง",
+  "description": "ระบบควบคุมยานพาหนะ เครื่องจักร และเครื่องมือ เทศบาลตำบลพระซอง ทะเบียนรถ คุมน้ำมัน บันทึกซ่อมแบบ 6 คำนวณ กม./ลิตร และแดชบอร์ดปีงบประมาณ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
